@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 
 
-🎯 Full-stack Developer | 💻 Code Alchemist | 🚀 Passionate Problem Solver
+🎯 Full-stack Developer | 💻 Code Alchemist | 🚀 Passionate Problem Solver mobile developer
 
 Welcome to my GitHub profile! I'm a dedicated software developer who specializes in crafting efficient, scalable, and user-centric web applications. I thrive on solving real-world problems with code and am currently exploring ways to integrate AI and sustainability in technology.
 
